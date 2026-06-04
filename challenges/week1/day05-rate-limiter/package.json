@@ -1,0 +1,4 @@
+{
+  "name": "day05-rate-limiter",
+  "scripts": { "test": "node src/rateLimiter.test.js" }
+}

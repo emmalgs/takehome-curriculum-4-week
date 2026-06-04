@@ -1,0 +1,7 @@
+[
+  {"model": "todos.todo", "pk": 1, "fields": {"title": "Buy groceries", "completed": false, "created_at": "2025-01-01T09:00:00Z"}},
+  {"model": "todos.todo", "pk": 2, "fields": {"title": "Read a book", "completed": true, "created_at": "2025-01-02T10:00:00Z"}},
+  {"model": "todos.todo", "pk": 3, "fields": {"title": "Go for a run", "completed": false, "created_at": "2025-01-03T07:00:00Z"}},
+  {"model": "todos.todo", "pk": 4, "fields": {"title": "Call mum", "completed": false, "created_at": "2025-01-04T11:00:00Z"}},
+  {"model": "todos.todo", "pk": 5, "fields": {"title": "Fix that bug", "completed": true, "created_at": "2025-01-05T14:00:00Z"}}
+]

@@ -1,0 +1,6 @@
+{
+  "name": "day01-search-index",
+  "scripts": {
+    "test": "node src/searchIndex.test.js"
+  }
+}

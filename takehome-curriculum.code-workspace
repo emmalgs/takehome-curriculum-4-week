@@ -1,0 +1,28 @@
+{
+  "folders": [
+    { "name": "🗂 Root", "path": "." },
+    { "name": "📅 Day 01 — Search Index (JS, 30min)", "path": "challenges/week1/day01-search-index" },
+    { "name": "📅 Day 02 — LRU Cache (Python, 45min)", "path": "challenges/week1/day02-lru-cache" },
+    { "name": "📅 Day 03 — Todos API (Django, 45min)", "path": "challenges/week1/day03-todos-api" },
+    { "name": "📅 Day 04 — Products API (Express, 45min)", "path": "challenges/week1/day04-products-api" },
+    { "name": "📅 Day 05 — Rate Limiter (JS, 30min)", "path": "challenges/week1/day05-rate-limiter" },
+    { "name": "📅 Day 06 — Movie Search (FastAPI+React, 90min)", "path": "challenges/week2/day06-movie-search" },
+    { "name": "📅 Day 07 — Employee Dir ⚠️ Benchmark (Django+Vue, 90min)", "path": "challenges/week2/day07-employee-directory" },
+    { "name": "📅 Day 08 — Bookmarks (Express+React, 2hr)", "path": "challenges/week2/day08-bookmarks" },
+    { "name": "📅 Day 09 — Weather (FastAPI+Vue, 90min)", "path": "challenges/week2/day09-weather-dashboard" },
+    { "name": "📅 Day 10 — Algorithms: Arrays+Strings (45min)", "path": "challenges/week2/day10-algorithms" },
+    { "name": "📅 Day 11 — Speed Run: Token Bucket (JS, 30min)", "path": "challenges/week3/day11-token-bucket" },
+    { "name": "📅 Day 12 — Speed Run: URL Shortener (Express, 30min)", "path": "challenges/week3/day12-url-shortener" },
+    { "name": "📅 Day 13 — Timed Fullstack: Notes (Django+React, 60min)", "path": "challenges/week3/day13-note-taker" },
+    { "name": "📅 Day 14 — Peer Review (60min)", "path": "challenges/week3/day14-peer-review" },
+    { "name": "📅 Day 15 — Algorithms: Trees+Graphs (45min)", "path": "challenges/week3/day15-algorithms" },
+    { "name": "📅 Day 16 — Simulation: Inventory (FastAPI+Vue, 2hr)", "path": "challenges/week4/day16-inventory" },
+    { "name": "📅 Day 17 — Simulation: Job Board (Django+React, 2hr)", "path": "challenges/week4/day17-job-board" },
+    { "name": "📅 Day 18 — Speed Pair: 3 Stacks (90min)", "path": "challenges/week4/day18-contact-list" },
+    { "name": "📅 Day 19 — Refactor Day (60min)", "path": "challenges/week4/day19-refactor" },
+    { "name": "📅 Day 20 — Retrospective (60min)", "path": "challenges/week4/day20-retrospective" }
+  ],
+  "settings": {
+    "editor.formatOnSave": true
+  }
+}

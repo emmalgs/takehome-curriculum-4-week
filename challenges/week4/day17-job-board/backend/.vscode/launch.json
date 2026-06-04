@@ -1,0 +1,1 @@
+{"version":"0.2.0","configurations":[{"type":"debugpy","request":"launch","name":"Run server","program":"${workspaceFolder}/manage.py","args":["runserver"],"django":true}]}

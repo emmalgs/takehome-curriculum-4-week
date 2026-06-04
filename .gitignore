@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+db.sqlite3
+*.db
+.env
+
+# Node
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# VS Code (keep launch configs, ignore user-specific)
+.vscode/settings.json
+.vscode/extensions.json

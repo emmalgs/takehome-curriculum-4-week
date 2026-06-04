@@ -1,0 +1,8 @@
+[
+  {"model":"jobs.job","pk":1,"fields":{"title":"Senior Frontend Engineer","company":"Acme Corp","type":"full-time","location":"Remote","description":"Build great UIs."}},
+  {"model":"jobs.job","pk":2,"fields":{"title":"Backend Developer","company":"Globex","type":"full-time","location":"New York","description":"Scale our APIs."}},
+  {"model":"jobs.job","pk":3,"fields":{"title":"UX Contractor","company":"Initech","type":"contract","location":"Remote","description":"3-month engagement."}},
+  {"model":"jobs.job","pk":4,"fields":{"title":"DevOps Part-time","company":"Umbrella","type":"part-time","location":"Remote","description":"20 hrs/week."}},
+  {"model":"jobs.job","pk":5,"fields":{"title":"Full Stack Engineer","company":"Cyberdyne","type":"full-time","location":"San Francisco","description":"Build everything."}},
+  {"model":"jobs.job","pk":6,"fields":{"title":"Data Analyst","company":"Weyland","type":"contract","location":"Chicago","description":"6-month contract."}}
+]
