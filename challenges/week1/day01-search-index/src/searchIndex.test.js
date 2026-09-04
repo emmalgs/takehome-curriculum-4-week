@@ -15,7 +15,7 @@ function assert(description, condition) {
 
 console.log('\nSearch Index Tests\n');
 
-// Basic search
+// // Basic search
 const idx = new SearchIndex(['apple', 'application', 'apply', 'banana', 'band']);
 const results = idx.search('app');
 assert('search returns results', results.length > 0);

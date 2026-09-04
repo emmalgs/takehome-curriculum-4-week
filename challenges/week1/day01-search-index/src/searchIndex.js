@@ -1,20 +1,29 @@
 class SearchIndex {
   constructor(items = []) {
-    // TODO: store items
+    this.items = items
   }
 
   add(str) {
-    // TODO
+    this.items.push(str)
   }
 
   remove(str) {
-    // TODO
+    this.items = this.items.filter((word) => word !== str)
   }
 
   search(query) {
-    // TODO: return results sorted by relevance
-    // Scoring: exact match = 3, startsWith = 2, includes = 1
-    // Return array of { value, score } sorted descending
+    const scoredQuery = []
+    for (const item of this.items) {
+      if (item.toLowerCase().includes(query.toLowerCase())) {
+        const score = item.toLowerCase() === query.toLowerCase() ? 2 : 1
+        scoredQuery.push({
+          value: item,
+          score
+        })
+      }
+    }
+
+    return scoredQuery.sort((a, b) => b.score - a.score)
   }
 }
 
